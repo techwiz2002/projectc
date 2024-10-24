@@ -1,3 +1,8 @@
+Project id: Group Project C  
+Project Name: iterator
+Programmer: [Jada Isable]
+Date: October 20, 2024
+    
 #include <iostream>
 #include <memory>
 #include <string>
