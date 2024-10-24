@@ -1,3 +1,8 @@
+Project id: Group Project C  
+Project Name: Phone numbers and pin
+Programmer: [Jada Isable]
+Date: October 20, 2024
+
 #include <iostream>
 #include <vector>
 #include <unordered_map>
