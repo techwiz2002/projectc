@@ -1,3 +1,8 @@
+Project id: Group Project C  
+Project Name: Permutations of numbers
+Programmer: [Jada Isable]
+Date: October 20, 2024
+
 #include <iostream>
 #include <vector>
 #include <string>
