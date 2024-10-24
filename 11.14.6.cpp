@@ -1,3 +1,8 @@
+Project id: Group Project C  
+Project Name: Palindrome
+Programmer: [Jada Isable]
+Date: October 20, 2024
+
 #include <iostream>
 #include <cctype>  // For isalpha and tolower
 #include <string>
